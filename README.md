@@ -6,7 +6,7 @@
 ## Nội dung
 1. [Chức năng](#chức-năng)
 
-   1. [Đăng nhập / Đăng kí](#đăng-nhập-/-đăng-kí)
+   1. [Đăng nhập / Đăng kí](#đăng-nhập--đăng-kí)
 
    2. [Đổi mật khẩu](#đổi-mật-khẩu)
 
