@@ -40,14 +40,10 @@
    </p>
     
 ### Đổi mật khẩu
-   * Top show
-  
-   * Show diễn hot
-  
-   * Chi tiết show diễn
+  * Đổi mật khẩu
    
    <p align="center">
-   <img src="screenshots/home.png" height = "480" width="270"> <img src="screenshots/show.png" height = "480" width="270"> <img src="screenshots/show1.png" height = "480" width="270">
+   <img src="screenshots/doimatkhau.png" height = "480" width="270">
    </p>
     
 ### Thống kê chi tiêu
