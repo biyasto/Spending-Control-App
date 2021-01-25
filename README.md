@@ -1,8 +1,7 @@
 "# MoneyManager" 
-# Ứng dụng iFan - Theo chân thần tượng
+# Ứng dụng Money Manager - Quản lí chi tiêu
 
-Ứng dụng cập nhật các show ca nhạc lớn diễn ra trong nước, thông tin chi tiết thời gian, địa điểm, giá vé...
-Theo dõi các show diễn của các ca sĩ, nghệ sĩ yêu thích.
+Ứng dụng  sổ tay chi tiêu để liệt kê các nguồn thu nhập và khoản chi. Cuối tháng sau khi tổng kết bạn sẽ biết được rằng mình đã tiêu tiền vào những việc gì, việc nào cần thiết việc nào không rồi từ đó đưa ra những điều chỉnh hợp lý cho tháng sau
 
 ## Nội dung
 1. [Chức năng](#chức-năng)
