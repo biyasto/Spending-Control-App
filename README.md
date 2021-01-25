@@ -20,6 +20,8 @@
    
    7. [Xem thông tin tài khoản](#xem-thông-tin-tài-khoản)
    
+   8. [Thông báo qua đám mây](#thông-báo-qua-đám-mây)
+   
    
 2. [Yêu cầu thiết bị](#yêu-cầu-thiết-bị)
 
@@ -84,11 +86,15 @@
    
 ### Xem thông tin tài khoản
    * Xem thông tin người dùng
-  
-  
    
   <p align="center">
    <img src="screenshots/thongtin.png" height = "480" width="270"> <img src="screenshots/luoi.png" height = "480" width="270">
+   </p>
+### Thông báo qua đám mây
+   * Thông báo qua đám mây
+   
+  <p align="center">
+   <img src="screenshots/nofication.png" height = "480" width="270"> <img src="screenshots/luoi.png" height = "480" width="270">
    </p>
 
 ## Yêu cầu thiết bị
