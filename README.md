@@ -34,11 +34,15 @@
 ## Chức năng
 ### Đăng nhập / Đăng kí
    * Đăng nhập
-  
+   
+  <p align="center">
+   <img src="screenshots/dangnhap.png" height = "480" width="270"> 
+   </p>
+   
    * Đăng kí
    
    <p align="center">
-   <img src="screenshots/dangnhap.png" height = "480" width="270"> <img src="screenshots/dangki.png" height = "480" width="270">
+   <img src="screenshots/dangki.png" height = "480" width="270">
    </p>
     
 ### Đổi mật khẩu
@@ -51,37 +55,68 @@
 ### Thống kê chi tiêu
    * Thống kê chi tiêu
   
-
-     
    <p align="center">
    <img src="screenshots/chonngay.png" height = "480" width="270"> <img src="screenshots/thongke.png" height = "480" width="270">
    </p>
 
 ### Thêm,Xóa,Sửa loại thu, chi
    * Thêm loại chu
-  
+   
+   <p align="center">
+   <img src="screenshots/themloai1.png" height = "480" width="270"> <img src="screenshots/themloai2.png" height = "480" width="270"> <img src="screenshots/themloai3.png" height = "480" width="270">
+   </p>
+   
    * Xóa loại thu
    
    <p align="center">
-   <img src="screenshots/themloai.png" height = "480" width="270"> <img src="screenshots/xoaloai.png" height = "480" width="270">
+   <img src="screenshots/xoaloai1.png" height = "480" width="270"> <img src="screenshots/xoaloai2.png" height = "480" width="270">
+   </p>
+   
+   *Sửa loại thu
+   <p align="center">
+   <img src="screenshots/sualoai1.png" height = "480" width="270"> <img src="screenshots/sualoai2.png" height = "480" width="270">
    </p>
 
 ### Thêm,Xóa,Sửa khoản thu, chi
    
-   * Thêm khoản chu
-  
-   * Xóa khoản thu
-  <p align="center">
-   <img src="screenshots/themkhoan.png" height = "480" width="270"> <img src="screenshots/xoakhoan.png" height = "480" width="270">
+  * Thêm khoản chu
+   
+   <p align="center">
+   <img src="screenshots/themkhoan1.png" height = "480" width="270"> <img src="screenshots/themkhoan2.png" height = "480" width="270"> <img src="screenshots/themkhoan3.png" height = "480" width="270">
    </p>
-
+   
+   * Xóa khoản thu
+   
+   <p align="center">
+   <img src="screenshots/xoakhoan1.png" height = "480" width="270"> <img src="screenshots/xoakhoan2.png" height = "480" width="270">
+   </p>
+   
+   *Sửa khoản thu
+   
+   <p align="center">
+   <img src="screenshots/suakhoan1.png" height = "480" width="270"> <img src="screenshots/suakhoan2.png" height = "480" width="270">
+   </p>
+   
+   *Xem chi tiết khoản thu
+   
+   <p align="center">
+   <img src="screenshots/chitiet.png" height = "480" width="270">
+   </p>
+   
 ### Chuyển đổi dạng xem
+
+   <p align="center">
+   <img src="screenshots/float.png" height = "480" width="270"> 
+   </p>
    * Chuyển dạng xem loại danh sách
+   <p align="center">
+   <img src="screenshots/danhsach.png" height = "480" width="270"> 
+   </p>
   
    * Chuyển loại xem dạng lưới
    
   <p align="center">
-   <img src="screenshots/danhsach.png" height = "480" width="270"> <img src="screenshots/luoi.png" height = "480" width="270">
+   <img src="screenshots/luoi.png" height = "480" width="270"> 
    </p>
    
 ### Xem thông tin tài khoản
