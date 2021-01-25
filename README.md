@@ -38,7 +38,7 @@
    <img src="screenshots/login.png" height = "480" width="270"> <img src="screenshots/register.png" height = "480" width="270">
    </p>
     
-### Xem show diễn hot
+### Đổi mật khẩu
    * Top show
   
    * Show diễn hot
@@ -49,43 +49,45 @@
    <img src="screenshots/home.png" height = "480" width="270"> <img src="screenshots/show.png" height = "480" width="270"> <img src="screenshots/show1.png" height = "480" width="270">
    </p>
     
-### Xem show ca sĩ yêu thích
-   * Thông tin ca sĩ
+### Thống kê chi tiêu
+   * Thống kê chi tiêu
   
-   * Các show diễn của ca sĩ
+
      
    <p align="center">
    <img src="screenshots/singer.png" height = "480" width="270"> <img src="screenshots/list.png" height = "480" width="270">
    </p>
 
-### Tìm kiếm show diễn
-   * Tìm theo tên
+### Thêm,Xóa loại thu, chi
+   * Thêm loại chu
   
-   * Tìm trên map
+   * Xóa loại thu
    
    <p align="center">
    <img src="screenshots/search.png" height = "480" width="270"> <img src="screenshots/search map.png" height = "480" width="270">
    </p>
 
-### Xem lịch diễn các show trong tháng
+### Thêm,Xóa khoản thu, chi
    
+   * Thêm khoản chu
+  
+   * Xóa khoản thu
    <p align="center">
    <img src="screenshots/schedule.png" height = "480" width="270">
    </p>
 
-### Lưu show diễn, ca sĩ yêu thích
-   * Xem show quan tâm
+### Chuyển đổi dạng xem
+   * Chuyển dạng xem loại danh sách
   
-   * Xem ca sĩ yêu thích
+   * Chuyển loại xem dạng lưới
    
    <p align="center">
    <img src="screenshots/interest.png" height = "480" width="270"> <img src="screenshots/list show 1.png" height = "480" width="270"> <img src="screenshots/list singer.png" height = "480" width="270">
    </p>
 
 ### Xem thông tin tài khoản
-   * Xem chính sách, liên lạc
+   * Xem thông tin tài khoản
   
-   * Đổi thông tin tài khoản
    
    <p align="center">
    <img src="screenshots/user.png" height = "480" width="270"> <img src="screenshots/change info.png" height = "480" width="270">
@@ -106,21 +108,15 @@
 
 - Language : Java
 
-- FrameWork : React Native 0.55.4
-
 - Database: SQLite
 
-* react-native - https://github.com/facebook/react-native
+* Admob Banner ads - :https://developers.google.com/admob/android/banner
 
-* react-navigation - https://github.com/react-navigation/react-navigation
+* Firebase cloud messaging - https://firebase.google.com/products/cloud-messaging
 
-* react-native-maps - https://github.com/react-native-community/react-native-maps
+* UI floating-Action_Button: https://github.com/Clans/FloatingActionButton
 
-* react-native-swiper - https://github.com/leecade/react-native-swiper
-
-* react-native-linear-gradient - https://github.com/react-native-community/react-native-linear-gradient
-
-* react-native-view-more-text - https://github.com/nlt2390/react-native-view-more-text
+* UI CircleImageView: https://github.com/hdodenhof/CircleImageView
 
 ## Tác giả
 Phạm Hoài Bảo - 19520406@gm.uit.edu.vn
