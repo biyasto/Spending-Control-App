@@ -81,7 +81,8 @@
   <p align="center">
    <img src="screenshots/danhsach.png" height = "480" width="270"> <img src="screenshots/luoi.png" height = "480" width="270">
    </p>
-### Xem thông tin tài khoản đổi
+### Xem thông tin tài khoản
+
    * Xem thông tin tài khoản
   
    
