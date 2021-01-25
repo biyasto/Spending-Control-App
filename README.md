@@ -15,10 +15,11 @@
    4. [Thêm / Xóa loại thu / chi](#thêm-/xóa-loại-thu-/-chi)
 
    5. [Thêm / Xóa khoản thu / chi](#thêm-/xóa-loại-thu-/-chi)
-   
-   6. [Chuyển đổi dạng xem (danh sách / lưới)](#chuyển-đổi dạng xem)
 
+   6. [Chuyển đổi dạng xem](#chuyển-dạng-xem)
+   
    7. [Xem thông tin tài khoản](#xem-thông-tin-tài-khoản)
+   
    
 2. [Yêu cầu thiết bị](#yêu-cầu-thiết-bị)
 
