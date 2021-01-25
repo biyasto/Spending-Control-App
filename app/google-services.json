@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "340409042077",
+    "project_id": "money_manager"
+
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340409042077:android:42d9c774b160d5f4bd8074",
+        "android_client_info": {
+          "package_name": "com.example.money_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340409042077-hsvtcqsp2thld5l2qng1p4is8lf5eusm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACu9UulUZG_ux_HxfwoKgQdtrikNlO05g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340409042077-hsvtcqsp2thld5l2qng1p4is8lf5eusm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
