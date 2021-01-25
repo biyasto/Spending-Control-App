@@ -16,7 +16,7 @@
 
    5. [Thêm,Xóa khoản thu, chi](#thêmxóa-khoản-thu-chi)
 
-   6. [Chuyển đổi dạng xem](#chuyển-dạng-xem)
+   6. [Chuyển đổi dạng xem](#chuyển-đổi-dạng-xem)
    
    7. [Xem thông tin tài khoản](#xem-thông-tin-tài-khoản)
    
