@@ -52,7 +52,7 @@
 
      
    <p align="center">
-   <img src="screenshots/singer.png" height = "480" width="270"> <img src="screenshots/list.png" height = "480" width="270">
+   <img src="screenshots/chonngay.png" height = "480" width="270"> <img src="screenshots/thongke.png" height = "480" width="270">
    </p>
 
 ### Thêm,Xóa loại thu, chi
@@ -61,7 +61,7 @@
    * Xóa loại thu
    
    <p align="center">
-   <img src="screenshots/search.png" height = "480" width="270"> <img src="screenshots/search map.png" height = "480" width="270">
+   <img src="screenshots/themloai.png" height = "480" width="270"> <img src="screenshots/xoaloai.png" height = "480" width="270">
    </p>
 
 ### Thêm,Xóa khoản thu, chi
@@ -69,8 +69,8 @@
    * Thêm khoản chu
   
    * Xóa khoản thu
-   <p align="center">
-   <img src="screenshots/schedule.png" height = "480" width="270">
+  <p align="center">
+   <img src="screenshots/themkhoan.png" height = "480" width="270"> <img src="screenshots/xoakhoan.png" height = "480" width="270">
    </p>
 
 ### Chuyển đổi dạng xem
@@ -78,16 +78,15 @@
   
    * Chuyển loại xem dạng lưới
    
-   <p align="center">
-   <img src="screenshots/interest.png" height = "480" width="270"> <img src="screenshots/list show 1.png" height = "480" width="270"> <img src="screenshots/list singer.png" height = "480" width="270">
+  <p align="center">
+   <img src="screenshots/danhsach.png" height = "480" width="270"> <img src="screenshots/luoi.png" height = "480" width="270">
    </p>
-
 ### Xem thông tin tài khoản
    * Xem thông tin tài khoản
   
    
    <p align="center">
-   <img src="screenshots/user.png" height = "480" width="270"> <img src="screenshots/change info.png" height = "480" width="270">
+   <img src="screenshots/thongtin.png" height = "480" width="270">
    </p>
    
 ## Yêu cầu thiết bị
