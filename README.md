@@ -8,25 +8,25 @@
 
    1. [Đăng nhập / Đăng kí](#đăng-nhập-/-đăng-kí)
 
-   1. [Xem show diễn hot](#xem-show-diễn-hot)
+   2. [Đổi mật khẩu](#đổi-mật-khẩu)
+
+   3. [Thống kê chi tiêu](#thống-kê)
    
-   1. [Xem show ca sĩ yêu thích](#xem-show-ca-sĩ-yêu-thích)
+   4. [Thêm / Xóa loại thu / chi](#thêm-/xóa-loại-thu-/-chi)
 
-   1. [Tìm kiếm show diễn](#tìm-kiếm-show-diễn)
+   5. [Thêm / Xóa khoản thu / chi](#thêm-/xóa-loại-thu-/-chi)
    
-   1. [Xem lịch diễn các show trong tháng](#xem-lịch-diễn-các-show-trong-tháng)
+   6. [Chuyển đổi dạng xem (danh sách / lưới)](#chuyển-đổi dạng xem)
 
-   1. [Lưu show diễn, ca sĩ yêu thích](#xem-show-diễn,-ca-sĩ-yêu-thích)
-
-   1. [Xem thông tin tài khoản](#xem-thông-tin-tài-khoản)
+   7. [Xem thông tin tài khoản](#xem-thông-tin-tài-khoản)
    
-1. [Yêu cầu thiết bị](#yêu-cầu-thiết-bị)
+2. [Yêu cầu thiết bị](#yêu-cầu-thiết-bị)
 
-1. [Thư viện và công nghệ](#thư-viện-và-công-nghệ)
+3. [Thư viện và công nghệ](#thư-viện-và-công-nghệ)
 
-1. [Tác giả](#tác-giả)
+4. [Tác giả](#tác-giả)
 
-1. [Giấy phép](#giấy-phép)
+5. [Giấy phép](#giấy-phép)
 
 ## Chức năng
 ### Đăng nhập / Đăng kí
@@ -96,23 +96,19 @@
 
    +Android studio : 3.0.1
 
-   +Gradle : 4.1
+   +Gradle : 5.6.4
 
-   +Min sdk : 19
+   +Min sdk : 16
 
-   +Target sdk : 26
-
--iOS:
-
-   +iOS: 8.0
+   +Target sdk : 29
 
 ## Thư viện và công nghệ
 
-- Language : Javascript
+- Language : Java
 
 - FrameWork : React Native 0.55.4
 
-- Database: phpMyAdmin
+- Database: SQLite
 
 * react-native - https://github.com/facebook/react-native
 
@@ -127,11 +123,7 @@
 * react-native-view-more-text - https://github.com/nlt2390/react-native-view-more-text
 
 ## Tác giả
-Lê Trọng Tín - 15520893@gm.uit.edu.vn
-
-Huỳnh Việt Tiến - 15520877@gm.uit.edu.vn
-
-Hồ Hoàng Phi Long - 15520439@gm.uit.edu.vn
+Phạm Hoài Bảo - 19520406@gm.uit.edu.vn
 
 ## Giấy phép
 
