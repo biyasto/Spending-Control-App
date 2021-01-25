@@ -12,9 +12,9 @@
 
    3. [Thống kê chi tiêu](#thống-kê)
    
-   4. [Thêm,Xóa loại thu, chi](#thêm-/xóa-loại-thu-/-chi)
+   4. [Thêm,Xóa loại thu, chi](#thêmxóa-loại-thu-chi)
 
-   5. [Thêm,Xóa khoản thu, chi](#thêm-/xóa-loại-thu-/-chi)
+   5. [Thêm,Xóa khoản thu, chi](#thêmxóa-khoản-thu-chi)
 
    6. [Chuyển đổi dạng xem](#chuyển-dạng-xem)
    
