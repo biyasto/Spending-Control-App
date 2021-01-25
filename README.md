@@ -60,44 +60,44 @@
    </p>
 
 ### Thêm,Xóa,Sửa loại thu, chi
-   * Thêm loại chu
+   * Thêm loại thu chi
    
    <p align="center">
    <img src="screenshots/themloai1.png" height = "480" width="270"> <img src="screenshots/themloai2.png" height = "480" width="270"> <img src="screenshots/themloai3.png" height = "480" width="270">
    </p>
    
-   * Xóa loại thu
+   * Xóa loại thu chi
    
    <p align="center">
    <img src="screenshots/xoaloai1.png" height = "480" width="270"> <img src="screenshots/xoaloai2.png" height = "480" width="270">
    </p>
    
-   *Sửa loại thu
+   *Sửa loại thu chi
    <p align="center">
    <img src="screenshots/sualoai1.png" height = "480" width="270"> <img src="screenshots/sualoai2.png" height = "480" width="270">
    </p>
 
 ### Thêm,Xóa,Sửa khoản thu, chi
    
-  * Thêm khoản chu
+  * Thêm khoản thu chi
    
    <p align="center">
    <img src="screenshots/themkhoan1.png" height = "480" width="270"> <img src="screenshots/themkhoan2.png" height = "480" width="270"> <img src="screenshots/themkhoan3.png" height = "480" width="270">
    </p>
    
-   * Xóa khoản thu
+   * Xóa khoản thu chi
    
    <p align="center">
    <img src="screenshots/xoakhoan1.png" height = "480" width="270"> <img src="screenshots/xoakhoan2.png" height = "480" width="270">
    </p>
    
-   *Sửa khoản thu
+   *Sửa khoản thu chi
    
    <p align="center">
    <img src="screenshots/suakhoan1.png" height = "480" width="270"> <img src="screenshots/suakhoan2.png" height = "480" width="270">
    </p>
    
-   *Xem chi tiết khoản thu
+   *Xem chi tiết khoản thu chi
    
    <p align="center">
    <img src="screenshots/chitiet.png" height = "480" width="270">
