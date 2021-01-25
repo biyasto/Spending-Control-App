@@ -81,15 +81,16 @@
   <p align="center">
    <img src="screenshots/danhsach.png" height = "480" width="270"> <img src="screenshots/luoi.png" height = "480" width="270">
    </p>
-### Xem thông tin tài khoản
-
-   * Xem thông tin tài khoản
+   
+### Chuyển đổi dạng 2
+   * Chuyển dạng xem loại danh sách
   
+   * Chuyển loại xem dạng lưới
    
-   <p align="center">
-   <img src="screenshots/thongtin.png" height = "480" width="270">
+  <p align="center">
+   <img src="screenshots/danhsach.png" height = "480" width="270"> <img src="screenshots/luoi.png" height = "480" width="270">
    </p>
-   
+
 ## Yêu cầu thiết bị
 -Android:
 
