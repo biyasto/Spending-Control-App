@@ -82,13 +82,13 @@
    <img src="screenshots/danhsach.png" height = "480" width="270"> <img src="screenshots/luoi.png" height = "480" width="270">
    </p>
    
-### Chuyển đổi dạng 2
-   * Chuyển dạng xem loại danh sách
+### Xem thông tin tài khoản
+   * Xem thông tin người dùng
   
-   * Chuyển loại xem dạng lưới
+  
    
   <p align="center">
-   <img src="screenshots/danhsach.png" height = "480" width="270"> <img src="screenshots/luoi.png" height = "480" width="270">
+   <img src="screenshots/thongtin.png" height = "480" width="270"> <img src="screenshots/luoi.png" height = "480" width="270">
    </p>
 
 ## Yêu cầu thiết bị
