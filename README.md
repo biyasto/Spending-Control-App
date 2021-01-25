@@ -12,9 +12,9 @@
 
    3. [Thống kê chi tiêu](#thống-kê)
    
-   4. [Thêm,Xóa loại thu, chi](#thêmxóa-loại-thu-chi)
+   4. [Thêm,Xóa,Sửa loại thu, chi](#thêmxóasửa-loại-thu-chi)
 
-   5. [Thêm,Xóa khoản thu, chi](#thêmxóa-khoản-thu-chi)
+   5. [Thêm,Xóa,Sửa khoản thu, chi](#thêmxóasửa-khoản-thu-chi)
 
    6. [Chuyển đổi dạng xem](#chuyển-đổi-dạng-xem)
    
@@ -57,7 +57,7 @@
    <img src="screenshots/chonngay.png" height = "480" width="270"> <img src="screenshots/thongke.png" height = "480" width="270">
    </p>
 
-### Thêm,Xóa loại thu, chi
+### Thêm,Xóa,Sửa loại thu, chi
    * Thêm loại chu
   
    * Xóa loại thu
@@ -66,7 +66,7 @@
    <img src="screenshots/themloai.png" height = "480" width="270"> <img src="screenshots/xoaloai.png" height = "480" width="270">
    </p>
 
-### Thêm,Xóa khoản thu, chi
+### Thêm,Xóa,Sửa khoản thu, chi
    
    * Thêm khoản chu
   
@@ -95,7 +95,7 @@
    * Thông báo qua đám mây
    
   <p align="center">
-   <img src="screenshots/nofication.png" height = "480" width="270"> <img src="screenshots/luoi.png" height = "480" width="270">
+   <img src="screenshots/nofication.png" height = "480" width="270">
    </p>
 
 ## Yêu cầu thiết bị
