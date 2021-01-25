@@ -90,6 +90,7 @@
   <p align="center">
    <img src="screenshots/thongtin.png" height = "480" width="270"> <img src="screenshots/luoi.png" height = "480" width="270">
    </p>
+   
 ### Thông báo qua đám mây
    * Thông báo qua đám mây
    
